@@ -1,0 +1,5 @@
+models/*
+build_images/*
+data/*
+__pycache__/*
+voxel.db
